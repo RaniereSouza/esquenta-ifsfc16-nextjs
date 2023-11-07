@@ -28,6 +28,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"humao.rest-client",
 				"bradlc.vscode-tailwindcss",
 				"ms-vscode.vscode-typescript-next",
 				"christian-kohler.npm-intellisense",
